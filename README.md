@@ -1,0 +1,2 @@
+# LifeCycleTestApp
+Activity LifeCycle Test
