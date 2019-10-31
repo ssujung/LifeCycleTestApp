@@ -18,7 +18,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".ActivityB"/>
+        <activity android:name=".ActivityB"
+            android:launchMode="singleInstance"/>
+
+        <activity android:name=".ActivityC"/>
     </application>
 
 </manifest>
